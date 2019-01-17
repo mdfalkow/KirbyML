@@ -6,7 +6,7 @@ The goal of this project is to create a machine learning program that is capable
 
 I decided to pursue this project so I could learn more about machine learning. As it currently stands, I do not even know if such a goal is even possible.
 
-Kirby is one of my favorite video game series of all time, and I recently developed an interest in machine learning. This lead me to create this project, since I thought it might be a good starting point. 
+Kirby is one of my favorite video game series of all time, and I recently developed an interest in machine learning. I thought this project would be a good starting point and a neat way to include some of my interests. 
 
 ## Legal Disclaimer
 Kirby&trade; and Kirby's Dream Land&trade; are properties of Nintendo / HAL Laboratory, Inc.. 
