@@ -1,0 +1,24 @@
+{
+  "info": {
+    "boss": {
+      "address": 54171,
+      "type": "|u1"
+    },
+    "boss_display": {
+      "address": 53395,
+      "type": "=u2"
+    },
+    "health": {
+      "address": 53381,
+      "type": ">=u2"
+    },
+    "lives": {
+      "address": 53385,
+      "type": "|u1"
+    },
+    "score": {
+      "address": 53387,
+      "type": "=u2"
+    }
+  }
+}
