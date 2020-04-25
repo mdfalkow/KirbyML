@@ -1,14 +1,18 @@
 {
   "done": {
-    "condition": "all",
+    "condition": "any",
     "variables": {
-      "health": {
+      "gameover": {
         "op": "greater-than",
         "reference": 30000
       },
       "lives": {
         "op": "less-than",
         "reference": 5
+      },
+      "health": {
+        "op": "less-than",
+        "reference": 6
       }
     }
   },

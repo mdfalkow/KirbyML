@@ -8,6 +8,10 @@
       "address": 53395,
       "type": "=u2"
     },
+    "gameover": {
+      "address": 53381,
+      "type": ">=u2"
+    },
     "health": {
       "address": 53381,
       "type": ">=u2"
