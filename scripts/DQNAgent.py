@@ -93,8 +93,8 @@ class DQNAgent:
         """
         self.replay_memory.append(transition)
 
-    # Trains main network every step during episode
     def train(self, terminal_state, step):
+        """Trains main network every step during episode"""
 
         # Start training only if certain number of samples is already saved
         if len(self.replay_memory) < self.rms_min:
