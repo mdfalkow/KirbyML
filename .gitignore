@@ -1,4 +1,6 @@
 .vscode/
 venv/
-*.gb*
+ROMs/
+*.gb
 __pycache__/
+logs/
