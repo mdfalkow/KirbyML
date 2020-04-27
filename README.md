@@ -36,13 +36,11 @@ This project requires Python 3.
         pip install -r requirements.txt
         ```
 
-3. Prepare the ROM file:
-    1. Place the Kirby's Dream Land ROM file in the `./ROMs/` directory
-    2. Name the ROM file `rom.gb`
+3. Obtain a ROM file for *Kirby's Dream Land* for the Nintendo GameBoy. (The checksum is available in `custom_integrations/KirbysDreamLand-GameBoy`. You can use this to verify the file.)
 
 4. Run `main.py`
     ```
-    python main.py
+    python main.py <ROM_PATH> [OPTIONS]
     ```
 
 
